@@ -1,3 +1,6 @@
 .env
 .venv
 .vscode
+error_log.txt
+scraped_news.json
+news_analysis.json

@@ -6,3 +6,27 @@ Failed processing input: {
 }
 Response: {"link": "https://www.fire.ca.gov/incidents/2020", "Provider": "Official Government Source", "headline": "2020 Fire Season Incident Archive | CAL FIRE", "content": "The 2020 California wildfire year was characterized by record-setting wildfires that burned across the state of California as measured during the modern era of wildfire management and record keeping. As of the end of the year, nearly 10,000 fires had burned over 4.2 million acres, more than 4% of the state's roughly 100 million acres
 
+Failed processing input: {
+    "link": "https://www.grants.gov/",
+    "Provider": "Official Government Source",
+    "headline": "Home | Grants.gov",
+    "content": "An official website of the United States government\nHere's how you know\nOfficial websites use .govA.govwebsite belongs to an official government organization in the United States.\nSecure .gov websites use HTTPSAlock(LockLocked padlock icon) orhttps://means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\nWe\u2019re building simpler Grants.gov! VisitSimpler.Grants.govto search for grants using the experimental Search feature.\nApplying for a funding opportunity is easier and more efficient when your team collaborates. Grants.gov Workspace makes it possible.\nReminder:Federal agencies do not publish personal financial assistance opportunities on Grants.gov. Federal funding opportunities published on Grants.gov are for organizations and entities supporting the development and management of government-funded programs and projects. For more information about personal financial assistance benefits, please visit USA.gov.\nKey steps that will help you in the application process\nDetermining your eligibility for federal grants is an important first step in the application process.\nGrants.gov offers a wide range of help-focused resources\nPrinciples and examples of grant-writing\nHow to manage passwords, find grantor contact information, find an applicant's UEI, and more\nThe Grants Learning Center is your gateway to the federal grants world\nSoftware releases bring users new features and fixes\nTo continue working, click on the \"OK\" button below.Note:This is being done to protect your privacy. Unsaved changes will be lost."
+}
+Response: {"link": "https://www.grants.gov/", "Provider": "Official Government Source", "headline": "Home | Grants.gov", "content": "An official website of the United States government\nHere's how you know\nOfficial websites use .govA.govwebsite belongs to an official government organization in the United States.\nSecure .gov websites use HTTPSAlock(LockLocked padlock icon) orhttps://means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\nWe\u2019
+
+Failed processing input: {
+    "link": "https://grants.gov/search-results-detail/356646",
+    "Provider": "Official Government Source",
+    "headline": "Lock",
+    "content": "An official website of the United States government\nHere's how you know\nOfficial websites use .govA.govwebsite belongs to an official government organization in the United States.\nSecure .gov websites use HTTPSAlock(LockLocked padlock icon) orhttps://means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\nTo continue working, click on the \"OK\" button below.Note:This is being done to protect your privacy. Unsaved changes will be lost."
+}
+Response: {"link": "https://grants.gov/search-results-detail/356646", "Provider": "Official Government Source", "headline": "Lock", "content": "An official website of the United States government\nHere's how you know\nOfficial websites use .govA.govwebsite belongs to an official government organization in the United States.\nSecure .gov websites use HTTPSAlock(LockLocked padlock icon) orhttps://means you've safely connected to the .gov website. Share sensitive information only on official, secure websites
+
+Failed processing input: {
+    "link": "https://grants.gov/search-results-detail/356646",
+    "Provider": "Official Government Source",
+    "headline": "Lock",
+    "content": "An official website of the United States government\nHere's how you know\nOfficial websites use .govA.govwebsite belongs to an official government organization in the United States.\nSecure .gov websites use HTTPSAlock(LockLocked padlock icon) orhttps://means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.\nTo continue working, click on the \"OK\" button below.Note:This is being done to protect your privacy. Unsaved changes will be lost."
+}
+Response: {"link": "https://grants.gov/search-results-detail/356646", "Provider": "Official Government Source", "headline": "Lock", "content": "An official website of the United States government\nHere's how you know\nOfficial websites use .govA.govwebsite belongs to an official government organization in the United States.\nSecure .gov websites use HTTPSAlock(LockLocked padlock icon) orhttps://means you've safely connected to the .gov website. Share sensitive information only on official, secure websites
+

@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 USER = os.getenv('USER')
 
-input_query = "California Fires"
+import sys
 
 # Number of valid news links required
 REQUIRED_NEWS_LINKS = 20
@@ -215,6 +215,15 @@ def filter_valid_news_links(links):
 
 # Run the scraping process
 if __name__ == "__main__":
+    
+    # Use command-line argument if provided, otherwise default to "California Fires"
+    if len(sys.argv) > 1:
+        input_query = " ".join(sys.argv[1:])  # Combine all arguments into a string
+    else:
+        input_query = "California Fires"  # Default query
+
+    print(f"\n Running Scraper for Query: {input_query} \n")
+
     query = input_query
 
     print("\nStarting Search...\n")
