@@ -107,6 +107,11 @@ for user_input in user_inputs:
     Design and implement a JSON object that quantitatively evaluates a news article by calculating 2 metrics and generating a summary of "content" of length 100-250 characters.
     
     The output should capture biasFactor (which is basically the political ideology/tone of the article, such as right-wing, left-wing, center etc.) and reliabilityFactor, ultimately combining them into a JSON format.
+    The bias factor is a number between -38 to 38, where -38 is extreme left-wing bias, -19 is left wing bias, 0 is neutral, 19 is right wing bias, and 38 is extreme right-wing bias.
+    Make sure to consider the provider as well to determine the bias factor, as it is very rare for an article to be completely neutral. 
+    The reliability factor is a number between 0 to 62, where 0 means contains inaccurate information, 24 means selective or incomplete coverage, 40 means mix of fact reporting and analysis or simple reporting, and 62 means original fact reporting.
+    Remember, the summary should be a concise representation of the content, not a direct excerpt.
+    Also remember that the two metrics need to be numbers. 
     
     REMEMBER, you must think and reason about the 2 metrics with yourself, but you shall not be allowed to output or show that reasoning in any form.
     

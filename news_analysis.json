@@ -1,0 +1,106 @@
+[
+    {
+        "link": "https://www.ca.gov/lafires/",
+        "Provider": "Official Government Source",
+        "headline": "2025 Los Angeles Fires | CA.gov",
+        "summary": "Provides information and resources for those affected by the 2025 Los Angeles wildfires, including debris removal, shelter, and financial assistance. Details government actions and relief measures.",
+        "biasFactor": 0,
+        "reliabilityFactor": 62
+    },
+    {
+        "link": "https://www.fire.ca.gov/incidents",
+        "Provider": "Official Government Source",
+        "headline": "Incidents | CAL FIRE",
+        "summary": "CAL FIRE transitions to Winter Preparedness staffing levels amid decreased fire activity. Recent rainfall has moderated fires, though California experienced a higher number of fires this year. Elevated fire risk persists in Southern California due to above-normal temperatures and offshore winds. CAL FIRE remains vigilant, focusing on fuel reduction and prevention efforts.",
+        "biasFactor": 0,
+        "reliabilityFactor": 62
+    },
+    {
+        "link": "https://www.usa.gov/california-wildfires",
+        "Provider": "Official Government Source",
+        "headline": "California wildfires | USAGov",
+        "summary": "The U.S. government is responding to Southern California wildfires with resources for recovery, including FEMA assistance and USDA program adjustments.",
+        "biasFactor": 0,
+        "reliabilityFactor": 62
+    },
+    {
+        "link": "https://www.fire.ca.gov/incidents/2020",
+        "Provider": "Official Government Source",
+        "headline": "2020 Fire Season Incident Archive | CAL FIRE",
+        "summary": "The 2020 California wildfire season set records with nearly 10,000 fires burning over 4.2 million acres. The August Complex became the largest wildfire, exceeding 1 million acres. Factors included thunderstorms, heatwaves, and winds.",
+        "biasFactor": 0,
+        "reliabilityFactor": 62
+    },
+    {
+        "link": "https://www.fire.ca.gov/our-impact/statistics",
+        "Provider": "Official Government Source",
+        "headline": "Statistics | CAL FIRE",
+        "summary": "CAL FIRE provides updated statistics on wildfires in California, including responses and acres burned, with detailed reports available for more information.",
+        "biasFactor": 5,
+        "reliabilityFactor": 50
+    },
+    {
+        "link": "https://inciweb.wildfire.gov/",
+        "Provider": "Official Government Source",
+        "headline": "InciWeb the Incident Information System",
+        "summary": "An official U.S. government website providing incident information with secure connection. Updates bookmarks and links to new URL.",
+        "biasFactor": 5,
+        "reliabilityFactor": 58
+    },
+    {
+        "link": "https://travel.state.gov/content/travel/en/passports/how-apply/replacing-your-passport-through-the-disaster-recovery-reform-act.html",
+        "Provider": "Official Government Source",
+        "headline": "Replacing your U.S. Passport after a Disaster",
+        "summary": "Guidance on replacing a lost or damaged passport after a disaster, including forms, fees, and eligibility for waivers.",
+        "biasFactor": 0,
+        "reliabilityFactor": 62
+    },
+    {
+        "link": "https://www.fire.ca.gov/incidents/?os=http&ref=app",
+        "Provider": "Official Government Source",
+        "headline": "Incidents | CAL FIRE",
+        "summary": "CAL FIRE reports ongoing wildfires in California, noting reduced fire activity due to rainfall, with adjustments in staffing levels and continued vigilance for potential future risks.",
+        "biasFactor": 0,
+        "reliabilityFactor": 62
+    },
+    {
+        "link": "https://www.theguardian.com/us-news/2025/feb/01/los-angeles-palisades-eaton-fires-contained",
+        "Provider": "The Guardian",
+        "headline": "Los Angeles’ Palisades and Eaton wildfires are now fully contained | California wildfires | The Guardian",
+        "summary": "The Palisades and Eaton wildfires in Los Angeles, which caused 29 deaths and over $250bn in damages, are now fully contained. Investigations into their causes are ongoing, with potential links to utility equipment. Southern California Edison is cooperating with authorities.",
+        "biasFactor": -19,
+        "reliabilityFactor": 40
+    },
+    {
+        "link": "https://www.bbc.com/news/articles/cqld9vqezqeo#:~:text=Nearly%207%2C000%20structures%20were%20levelled",
+        "Provider": "BBC",
+        "headline": "FireAid: Billie Eilish, Dr Dre, Katy Perry, Pink and Joni Mitchell perform at benefit concert",
+        "summary": "A benefit concert in Los Angeles featuring Billie Eilish, Dr. Dre, Katy Perry, and others raised money for wildfire relief, with performances and donations supporting affected communities.",
+        "biasFactor": -5,
+        "reliabilityFactor": 58
+    },
+    {
+        "link": "https://www.fema.gov/disaster/4856",
+        "Provider": "FEMA",
+        "headline": "FEMA Disaster Assistance Information",
+        "summary": "FEMA provides disaster assistance, application guidance, and recovery resources for affected individuals and families.",
+        "biasFactor": 0,
+        "reliabilityFactor": 62
+    },
+    {
+        "link": "https://www.usa.gov/replace-vital-documents",
+        "Provider": "Official Government Source",
+        "headline": "How to replace lost or stolen ID cards | USAGov",
+        "summary": "Provides information on replacing lost or stolen government-issued ID cards, requiring official documents like birth certificates. Updated in August 2024 by the U.S. General Services Administration.",
+        "biasFactor": 0,
+        "reliabilityFactor": 40
+    },
+    {
+        "link": "https://www.fire.ca.gov/incidents/2024",
+        "Provider": "Official Government Source",
+        "headline": "2024 Fire Season Incident Archive | CAL FIRE",
+        "summary": "California's 2024 fire season was marked by significant activity, with the Park Fire in Chico's Bidwell Park being a major incident caused by arson, destroying 709 structures and burning 429,603 acres.",
+        "biasFactor": 0,
+        "reliabilityFactor": 62
+    }
+]

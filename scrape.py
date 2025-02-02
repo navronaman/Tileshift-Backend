@@ -9,6 +9,11 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import random
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
+USER = os.getenv('USER')
+
 input_query = "California Fires"
 
 # Number of valid news links required
@@ -23,7 +28,7 @@ def get_google_search_links(query):
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("--disable-extensions")
-    options.add_argument("user-data-dir=C:/Users/Dhruv/AppData/Local/Google/Chrome/User Data")
+    options.add_argument(f"user-data-dir=C:/Users/{USER}/AppData/Local/Google/Chrome/User Data")
     options.add_argument("--profile-directory=Default")
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option("useAutomationExtension", False)
